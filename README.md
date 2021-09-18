@@ -6,5 +6,7 @@ Este es mi repositorio para los trabajos de clase de EDEM durante el curso del M
 # Información personal
 
 [Olimpia Fuster Sifre](https://www.linkedin.com/in/olimpia-fuster/)
+
 olimpiafus@gmail.com
+
 Valencia, España
