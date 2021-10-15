@@ -1,0 +1,11 @@
+1. No tocar el main.py pq lo ha hecho pedro y esta bien
+2. installar flask en requirements.txt; solo se pone el nombre, no install flask
+3. Rellenar Dockerfile:
+    - Elegir la imagen de python
+    - Decir el directorio en el que estamos trabajando
+    - copiar todos los archivos que necesitamos al container
+    - installar los requirement
+    - Elegir el puerto de salida
+4. build la imagen en la consola
+5. run el container en el puerto que toca
+   - docker run -p 5000:5000 imagen2
