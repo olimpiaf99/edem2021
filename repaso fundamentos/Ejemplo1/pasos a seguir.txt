@@ -1,0 +1,4 @@
+1. editar el main.py para escribir en código qué queremos que haga la máquina
+2. crear un texto que se llame Dockerfile y decirle que, de una imagen preexistente de git hub, copie tu main.py para crear tu propia imagen basada en una ya existente
+3. build la imagen desde la consola
+4. entrar en docker y hacer run en la imagen; se crea un contenedor
