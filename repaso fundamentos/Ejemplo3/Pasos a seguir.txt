@@ -1,0 +1,8 @@
+GET: yo como pagina web le pido al servidor que me de informacion. Ejemplo: sacame el historial academico de pepito 
+POST: mandar info (datos de un formulario al servidor)
+DELETE: quiero borrar info
+
+1. Determinar los mensajes de python de return.
+2. Hacer el Dockerfile que es el mismo que el ejercicio 2
+3. Crear imagen y ejecutar container en consola
+4. entrar en internet en localhost:5000 y escribir /users/1 o 2 o 3...

@@ -11,11 +11,11 @@ def index():
 @app.route('/users/<user_id>', methods = ['GET', 'POST', 'DELETE'])
 def getuser(user_id):
     if request.method == 'GET':
-        return ""
+            return "Welcome user", user_id, "!"
     if request.method == 'POST':
-        return ""
+        return "Funciona POST!"
     if request.method == 'DELETE':
-        return ""
+        return "Funciona DELETE!"
     else:
         abort(405,description="Method not allowed")
 
